@@ -1,0 +1,7 @@
+{"level":"info","message":"Connected to ...","timestamp":"2022-02-20T05:42:47.056Z"}
+{"level":"info","message":"Connected to ...","timestamp":"2022-02-20T05:44:27.511Z"}
+{"level":"info","message":"Connected to ...","timestamp":"2022-02-20T05:52:09.799Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2022-02-20T05:53:47.380Z"}
+{"level":"info","message":"Connected to ...","timestamp":"2022-02-20T05:53:47.458Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2022-02-21T02:42:52.084Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2022-02-21T02:42:52.160Z"}
